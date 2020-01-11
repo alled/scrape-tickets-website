@@ -1,0 +1,4 @@
+.env
+*.pyc
+.idea/
+cron_result.txt

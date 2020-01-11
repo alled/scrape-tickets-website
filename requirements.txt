@@ -1,0 +1,3 @@
+secure-smtplib
+bs4
+python-dotenv
